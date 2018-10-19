@@ -61,8 +61,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\PlayerMovement.cs" />
-    <None Include="Assets\BayatGames\Free Platform Game Assets\Readme.txt" />
+    <Compile Include="Assets\ProjectileScript.cs" />
+    <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/Yueming/Documents/Repos/Unity/prototype1/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
